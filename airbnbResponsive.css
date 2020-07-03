@@ -100,6 +100,10 @@
 		padding-bottom: 40px;
 	}
 
+	.onlyImg{
+		height: 400px;
+	}
+
 
 	.content5 h2{
 		font-size: 35px;
@@ -269,13 +273,22 @@
 	}
 
 	.onlyImg{
+		background-image: none;
+		object-fit: cover;
+		vertical-align: bottom;
+		height: auto;
 		overflow: hidden;
-		display: flex;
-		justify-content: center;
 	}
 	.onlyImg img{
-		width: 150%;
+		display: block;
+		height: 170%;
+    	width: 170%;
+    	position:relative;
+    	left: -150px;
 	}
+
+	}
+
 
 
 	.contents5{
