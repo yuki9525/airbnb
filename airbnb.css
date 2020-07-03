@@ -275,11 +275,15 @@ main{
 }
 
 .onlyImg{
+	height: 600px;
+	background-image: url(host.jpg);
+	background-size: cover;
 	margin-bottom: 100px;
 }
 .onlyImg img{
-	width: 100%;
+	display: none;
 }
+
 
 .mrsTessa{
 	flex-direction: row;
