@@ -393,15 +393,14 @@ main{
 	padding-top: 55px;
 }
 .footercontents{
-	width:1020px;
-	margin: 0 auto; 
+	width: 1040px;
+	margin: 0 auto;
 }
 .footercontents h1{
 	width: 450px;
 	font-size: 60px;
 	color: white;
 	line-height: 60px;
-	position: relative;
 }
 .footercontents a{
 	display: inline-block;
