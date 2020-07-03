@@ -313,6 +313,13 @@
 	.footerImg{
 		height: 375px;
 	}
+	.footercontents{
+		width:100%;
+		padding-left: 40px;
+	}
+	.footercontents h1{
+		width: 80%;
+	}
 	.list a{
 		width: 100%;
 	}
