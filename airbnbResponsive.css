@@ -275,7 +275,6 @@
 	.onlyImg{
 		background-image: none;
 		object-fit: cover;
-		vertical-align: bottom;
 		height: auto;
 		overflow: hidden;
 	}
@@ -287,6 +286,7 @@
     	left: -150px;
 	}
 
+	
 	.contents5{
 		display: block;
 	}
@@ -340,9 +340,6 @@
 		text-align: left;
 		padding-top: 20px;
 	}
-
-
-
 }
 
 
